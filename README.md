@@ -1,2 +1,2 @@
 # S3-Docker-Setup
-Setup S3 Bucket locally using docker-compose and dockerfile. It can improve your development experience by lot.
+*NOTE: All this setup is not mine I copied this from a Youtuber [WebDevCody](https://github.com/webdevcody). So please give him love for this.*
